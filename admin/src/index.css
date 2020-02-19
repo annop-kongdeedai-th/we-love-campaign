@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'NotoSansThaiUI-Black';
+  src: local('NotoSansThaiUI-Black'),
+    url(./assets/fonts/NotoSansThaiUI-Black.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'NotoSansThaiUI-Medium';
+  src: local('NotoSansThaiUI-Medium'),
+    url(./assets/fonts/NotoSansThaiUI-Medium.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'NotoSans-Medium';
+  src: local('NotoSans-Medium'),
+    url(./assets/fonts/NotoSans-Medium.ttf) format('truetype');
+}

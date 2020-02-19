@@ -1,0 +1,28 @@
+const COLORS = {
+  lightGreen: '#A3CF2E',
+  green: 'rgb(63, 190, 63)',
+  black: '#000000',
+  grey: 'rgb(233, 233, 234)',
+  lightBlue: 'rgb(106, 175, 254)',
+  blue: '#4186E0',
+  lightGrey: '#a1a1a1',
+  lightGreyShade2: '#f4f4f4',
+  whiteGreyBlack: '#f9f9f9',
+  darkGrey: 'rgb(62, 62, 62)',
+  white: '#FFFFFF',
+  red: 'rgb(254, 90, 87)',
+  yellow: 'rgb(245, 197, 13)',
+  transparent: '#00000000',
+  whiteTransparent: 'rgba(255, 255, 255, 0.5)',
+  blackTransparent: 'rgba(0, 0, 0, 0.2)',
+  darkBlackTransparent: 'rgba(0, 0, 0, 0.8)',
+  facebook: 'rgb(85, 104, 168)',
+  twitter: 'rgb(116, 175, 221)',
+  line: 'rgb(86, 188, 86)',
+  orange: 'rgb(239, 135, 51)',
+  grapefruit: '#ffdcdb',
+  walletBg: 'rgb(40, 37, 57)',
+  greyTransparent: 'rgba(247, 247, 247,0.2)',
+  darkGreyTransparent: 'rgba(247, 247, 247,0.8)'
+};
+export default COLORS;
